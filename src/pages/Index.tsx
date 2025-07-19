@@ -62,8 +62,8 @@ const Index = () => {
       name: "qmollejaerifa.com",
       url: "https://qmollejaerifa.com/",
       description: "Rifa oficial de Neuro. Plataforma completa con diseño adaptado a móviles, sistema seguro y visualmente atractivo.",
-      instagramUrl: "https://instagram.com/neur0._",
-      instagramHandle: "@neur0._"
+      instagramUrl: "https://www.instagram.com/neuroballesteros93/",
+      instagramHandle: "@neuroballesteros93"
     },
     {
       name: "rifashenko.com",
