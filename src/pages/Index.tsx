@@ -5,6 +5,7 @@ import FeatureCard from "@/components/FeatureCard";
 import ProjectCard from "@/components/ProjectCard";
 import MockupShowcase from "@/components/MockupShowcase";
 import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 
 // Import all icons
 import noCommissionIcon from "@/assets/no-commission-icon.png";
