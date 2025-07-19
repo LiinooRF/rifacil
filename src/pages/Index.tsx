@@ -19,7 +19,7 @@ import mockup2 from "@/assets/mockup-2.png";
 import mockup3 from "@/assets/mockup-3.png";
 
 const Index = () => {
-  const whatsappNumber = "56912345678";
+  const whatsappNumber = "56937029093";
   const whatsappLink = `https://wa.me/${whatsappNumber}`;
 
   const features = [
