@@ -72,6 +72,11 @@ const Index = () => {
       url: "https://rifashenko.com/",
       description: "Sistema completo de rifas con diseño personalizado, panel de administración y automatización de pagos."
     }
+    {
+      name: "theshow2001.xyz",
+      url: "https://theshow2001.xyz",
+      description: "Tercera pagina realizada por mí, incluye TOP 3 personas que más compran tickets."
+    }
   ];
 
   return (
