@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://rifacil.click/sitemap.xml
+Sitemap: https://www.rifacil.click/sitemap.xml
