@@ -77,6 +77,16 @@ const Index = () => {
       url: "https://theshow2001.xyz",
       description: "Tercera pagina realizada por mí, incluye TOP 3 personas que más compran tickets."
     }
+    {
+      name: "alfrejavier.xyz",
+      url: "https://theshow2001.xyz",
+      description: "¡Ultimas versiones!"
+    },
+    {
+      name: "www.rifaloshermanos.cl",
+      url: "https://rifaloshermanos.cl/",
+      description: "Ultimo proyecto con pagina principal."
+    },
   ];
 
   return (
