@@ -79,7 +79,7 @@ const Index = () => {
     },
     {
       name: "alfrejavier.xyz",
-      url: "https://theshow2001.xyz",
+      url: "https://alfrejavier.xyz",
       description: "¡Ultimas versiones!"
     },
     {
