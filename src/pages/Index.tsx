@@ -85,7 +85,7 @@ const Index = () => {
     {
       name: "www.rifaloshermanos.cl",
       url: "https://rifaloshermanos.cl/",
-      description: "Ultimo proyecto con pagina principal."
+      description: "Ultimo proyecto con pagina principal y con selector de tickets."
     },
   ];
 
