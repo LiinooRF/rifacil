@@ -76,7 +76,7 @@ const Index = () => {
       name: "theshow2001.xyz",
       url: "https://theshow2001.xyz",
       description: "Tercera pagina realizada por mí, incluye TOP 3 personas que más compran tickets."
-    }
+    },
     {
       name: "alfrejavier.xyz",
       url: "https://theshow2001.xyz",
