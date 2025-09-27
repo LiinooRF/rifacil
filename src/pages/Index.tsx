@@ -87,6 +87,11 @@ const Index = () => {
       url: "https://rifaloshermanos.cl/",
       description: "Ultimo proyecto con pagina principal y con selector de tickets."
     },
+    {
+      name: "www.rifalachinita.cl",
+      url: "https://rifalachinita.cl/",
+      description: "Sistema de descuento aplicado después de seleccionar 10 tickets."
+    },
   ];
 
   return (
